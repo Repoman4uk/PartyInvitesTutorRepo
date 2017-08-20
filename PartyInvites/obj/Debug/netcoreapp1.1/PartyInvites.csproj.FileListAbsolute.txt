@@ -8,3 +8,12 @@ C:\Users\localadmin\source\repos\PartyInvites\PartyInvites\obj\Debug\netcoreapp1
 C:\Users\localadmin\source\repos\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.AssemblyInfo.cs
 C:\Users\localadmin\source\repos\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.dll
 C:\Users\localadmin\source\repos\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.pdb
+D:\VS projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.deps.json
+D:\VS projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.runtimeconfig.json
+D:\VS projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.runtimeconfig.dev.json
+D:\VS projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.dll
+D:\VS projects\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.pdb
+D:\VS projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.AssemblyInfo.cs
+D:\VS projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.dll
+D:\VS projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.pdb
+D:\VS projects\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.csprojResolveAssemblyReference.cache
